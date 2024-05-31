@@ -1,0 +1,17 @@
+#git上传时，选择忽略哪些文件
+*.log
+*.pyc
+*.iml
+.idea
+celerybeat.pid
+start.sh.bak
+mysql
+logs
+*/logs/
+*/migrations/
+/venv/
+/static/
+tempWorkDir/
+reportWorkDir/
+appfront/
+media/
